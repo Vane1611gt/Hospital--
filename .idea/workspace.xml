@@ -9,18 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f0d5022-07d0-4c1f-93f6-b40ee6b79c5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Hospital___jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Hospital___jar/Hospital--.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DESCARGAS/Hospital--.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hospital/view/DoctorView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hospital/view/LoginView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hospital/view/LoginView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/DoctorView.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5f0d5022-07d0-4c1f-93f6-b40ee6b79c5b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +61,7 @@
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "MVC",
+    "git-widget-placeholder": "paciente",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/vane/Hospital--/src/DESCARGAS",
     "project.structure.last.edited": "Artifacts",
